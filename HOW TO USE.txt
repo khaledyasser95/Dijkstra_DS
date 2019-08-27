@@ -1,0 +1,22 @@
+It was made on Intellij
+How to run ?
+
+--------Gui-------------
+'gui_run' is the main class of GUI
+You can enter your input 
+1- Enter your Nodes Example (A B C D E F) then press 'ADD NODE'
+2- Set Source , Destination and Distance (Weight) then press 'ADD DESTINATION' ( Nothing will be printed)
+3-After you finish press 'Print'
+OR
+Ready made path was designed from the PDF as asked (PDF READY MADE..... Button)
+
+--------Consol----------
+'Start_Consol' in the main class of consol
+Just Run and it will print a ready made path ( as in PDF) in console line
+
+SCREENSHOTS are attached in screenshot folder 
+
+THANK YOU SO MUCH
+
+KHALED YASSER SAMY -------> 3567
+AMR MOHAMED---------------> 3400
